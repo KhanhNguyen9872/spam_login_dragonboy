@@ -7,7 +7,7 @@ global zzz,is_start
 is_start=0
 zzz=[]
 
-host = "103.178.234.247"
+máy  chủ   =   "14.225.217.16"
 port = 80
 headers = """\
 POST /dangky.php HTTP/1.1\r
